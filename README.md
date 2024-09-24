@@ -1,1 +1,1 @@
-# EI-assignment
+# Educational Initiatives Assignment
